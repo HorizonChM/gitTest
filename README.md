@@ -10,5 +10,5 @@
  - git push 将本地版本更新到远程连接分支
  - git status 查看当前的状态
  - git branch 查看分支
-
+ - git merge 合并分支
 
