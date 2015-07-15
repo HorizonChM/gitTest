@@ -11,4 +11,4 @@
  - git status 查看当前的状态
  - git branch 查看分支
  - git merge 合并分支
-
+ - branch modified
