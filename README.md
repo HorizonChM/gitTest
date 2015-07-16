@@ -11,7 +11,9 @@
  - git status 查看当前的状态
  - git branch 查看分支
  - git merge 合并分支
- - branch modified
- - master modified
- - branch modified again
+ - git push <远程主机名> <本地分支名>:<远程分支名>
+   - 例如 git push origin addTitle:addTitle
+   - 就是将本地的addTitle分支push到远程主机origin的addTitle分支上了
+ - last modified by master
+ 
 
