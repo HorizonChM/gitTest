@@ -15,5 +15,5 @@
    - 例如 git push origin addTitle:addTitle
    - 就是将本地的addTitle分支push到远程主机origin的addTitle分支上了
  - last modified by master
- 
+ - git reset --hard 强行恢复到某个阶段
 
