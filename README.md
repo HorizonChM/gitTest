@@ -23,4 +23,4 @@
 
 Notice:
  - git pull 拉取的只是在origin上的本地分支，而不是master分支！！！这点一定要注意，以后应该这样用`git pull origin/master`
-    而不是简单的`git pull`... 
+    而不是简单的`git pull`...当然了，也跟绑定了远端分支有关 
